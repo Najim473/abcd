@@ -34,14 +34,14 @@ const Nav = () => {
             </button>
           </div>
         </nav>
-        <div className="flex justify-center mt-40">
-          <div className="text-white w-1/2 h-full translate(-50%, -50%)">
-            <h1 style={{ lineHeight: "60px" }} className="text-4xl font-bold">
-              The best solutions on the market for you business
+        <div className="flex justify-center 2xl:mt-80 md:mt-56 ">
+          <div className="text-white w-1/2">
+            <h1 style={{ lineHeight: "60px" }} className="text-5xl font-bold">
+              The Best solutions On The Market For Your Business
             </h1>
             <p className="text-xl mt-6">
-              Develop quality software to meet your needs and expectation with
-              us
+              Develop Quality Software & Desing To Meet Your Needs And
+              Expectation With Us.
             </p>
             <button
               className="contactBtn border-2 rounded p-1 mt-8"
